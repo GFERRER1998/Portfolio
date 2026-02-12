@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/demo",
+      "destination": "http://35.193.146.253/login",
+      "permanent": false
+    }
+  ]
+}

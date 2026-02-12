@@ -7,7 +7,7 @@ const Projects = () => {
       description: "Full-stack e-commerce platform developed with Java and React. Primary project featuring complete product and user management.",
       tags: ["Java", "Spring Boot", "React", "Full Stack"],
       image: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&q=80&w=800",
-      live: "http://35.193.146.253/items",
+      live: "/demo",
       code: "https://github.com/GFERRER1998/TiendaJAVAREACT/",
       credentials: {
         email: "admin@admin.com",
