@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/demo",
-      "destination": "http://35.193.146.253/login",
+      "destination": "https://mi-tienda-javareact.duckdns.org/login",
       "permanent": false
     }
   ]
