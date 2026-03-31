@@ -12,11 +12,11 @@ const Skills = () => {
     },
     {
       title: "Database & Performance",
-      skills: ["SQL Query Optimization", "Stored Procedures", "Triggers", "DB Design"]
+      skills: ["MongoDB", "SQL Query Optimization", "Stored Procedures", "Triggers", "DB Design"]
     },
     {
-      title: "Specialized Tools",
-      skills: ["Git", "GitHub", "Containerization", "GIS Systems", "Real-Time Tracking"]
+      title: "Specialized Tools & AI",
+      skills: ["Apache Kafka", "Keycloak", "Google Gemini AI", "Git", "GitHub", "Containerization", "GIS Systems"]
     }
   ];
 

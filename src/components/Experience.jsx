@@ -7,9 +7,9 @@ const Experience = () => {
       role: "Full Stack Developer",
       period: "2024 – 2025",
       description: [
-        "Developed real-time logistics applications (Java/React) for high-concurrency ride-hailing systems.",
-        "Optimized GIS SQL queries and Spring Boot APIs, significantly reducing latency in live tracking.",
-        "Scaled microservices infrastructure to handle peak traffic and implemented dynamic pricing logic."
+        "Developed real-time logistics applications (Java/React) for high-concurrency ride-hailing systems using Apache Kafka for event-driven processing.",
+        "Optimized GIS SQL queries and Spring Boot Core APIs, significantly reducing latency in live tracking.",
+        "Scaled microservices infrastructure with Docker and implemented advanced security protocols for user data."
       ]
     },
     {
@@ -17,9 +17,9 @@ const Experience = () => {
       role: "Backend Developer",
       period: "2020 – 2023",
       description: [
-        "Engineered logistics systems processing 1M+ shipments using Java and SQL.",
+        "Engineered logistics systems processing 1M+ shipments using Java and MongoDB for flexible data storage.",
         "Designed low-latency microservices and database schemas for real-time inventory management.",
-        "Automated core business processes through complex Stored Procedures and Triggers."
+        "Automated core business processes through complex Stored Procedures and Triggers in SQL."
       ]
     }
   ];

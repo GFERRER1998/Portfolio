@@ -3,6 +3,13 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
+      title: "IAFITNESS - AI-Powered Microservices",
+      description: "Distributed fitness platform built with Spring Boot 3 & React 19. Features real-time AI health recommendations via Google Gemini, event-driven architecture with Kafka, and unified security with Keycloak.",
+      tags: ["Spring Boot 3", "React 19", "Kafka", "MongoDB", "Keycloak", "Gemini AI"],
+      image: "/iafitness.png",
+      code: "https://github.com/GFERRER1998/IAFITNESS"
+    },
+    {
       title: "Tienda JAVAREACT",
       description: "Full-stack e-commerce platform developed with Java and React. Primary project featuring complete product and user management.",
       tags: ["Java", "Spring Boot", "React", "Full Stack"],
